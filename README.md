@@ -1,10 +1,4 @@
-# 学生信息管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ： **学生11**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 学生信息管理系统11
 
 ## 1、项目介绍
 
@@ -30,21 +24,18 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182101627.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207182101627.jpg)
 
 ### 4.2 其他模块
 
-![主界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182101540.jpg)
+![主界面](https://www.codeshop.fun/Typora-Images/202207182101540.jpg)
 
-![修改学生](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182101790.jpg)
+![修改学生](https://www.codeshop.fun/Typora-Images/202207182101790.jpg)
 
-![添加学生](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182101599.jpg)
+![添加学生](https://www.codeshop.fun/Typora-Images/202207182101599.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**学生11** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**学生**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
